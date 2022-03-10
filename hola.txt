@@ -1,1 +1,2 @@
 hola que tal, este es el primer commit
+hola, soy juan carlos y edito este archivo
